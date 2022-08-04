@@ -1,0 +1,16 @@
+==SELECT TODO==
+select * from rentaEquipos;
+
+==SELECT CLIENTES==
+select  from clientes where rentaEquipos ID_cliente=1801;
+select  from clientes where rentaEquipos ID_cliente=1802;
+
+==SELECT EMPLEADOS==
+select empleados from rentaEquipos where ID_empleado=321;
+select empleados from rentaEquipos where ID_empleado=328;
+
+==USERS==
+select users from rentaEquipos where empleado=321;
+
+==INVENTARIO==
+select inventario from rentaEquipos where id_inv ='1801';
