@@ -1,12 +1,25 @@
 -----tabla clientes
 insert into clientes(ID_cliente,nombre,apell_paterno,num_tel) values(1801,'Alonso','Reyes','6641644270');
 insert into clientes(ID_cliente,nombre,apell_paterno,num_tel) values(1802,'Ramses','Benitez','6645199834');
+insert into clientes(ID_cliente,nombre,apell_paterno,num_tel) values(1802,'Ramses','Benitez','6645199834');
 
 32 => empleado
 ----tabla empleados
-insert into empleados  values(321,'Manuel','Gomez','6641234546');
+insert into empleados  values(321,'Manuel','Aranda','6641234546');
 insert into empleados  values(322,'Emilio','Velazquez','6641102345');
-insert into empleados  values(323,'Allan','Salazar','6641233456');
+insert into empleados  values(323,'Mauricio','Miranda','6644892312');
+insert into empleados  values(324,'Kaleb','Suarez','6644965322');
+insert into empleados  values(325,'Gael','Abisai','6641233456');
+insert into empleados  values(326,'Scarlet','Johanson','6644952236');
+insert into empleados  values(327,'Bob','Mendez','6641523366');
+insert into empleados  values(328,'Patricio','Rodriguez','6645561289');
+insert into empleados  values(329,'Mike','Johnson','6648521445');
+insert into empleados  values(330,'Gustavo','Breton','6647582201');
+insert into empleados  values(331,'Pedro','Lopez','6645521692');
+insert into empleados  values(332,'Noah','De la rosa','6647592369');
+insert into empleados  values(333,'Lia','Macareno','6641233456');
+insert into empleados  values(334,'Alma','Marcela Gozo ','6641233456');
+insert into empleados  values(335,'Benito','Camelo','6647591203');
 
 ----tabla users
 insert into users(tipo,username,password,empleado) values('empleado','0321','angel123',321);
