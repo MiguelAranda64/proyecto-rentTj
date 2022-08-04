@@ -14,3 +14,5 @@ select users from rentaEquipos where empleado=321;
 
 ==INVENTARIO==
 select inventario from rentaEquipos where id_inv ='1801';
+
+select id_cliente from
