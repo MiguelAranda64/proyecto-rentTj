@@ -18,8 +18,8 @@ insert into empleados  values(330,'Gustavo','Breton','6647582201');
 insert into empleados  values(331,'Pedro','Lopez','6645521692');
 insert into empleados  values(332,'Noah','De la rosa','6647592369');
 insert into empleados  values(333,'Lia','Macareno','6641233456');
-insert into empleados  values(334,'Alma','Marcela Gozo ','6641233456');
-insert into empleados  values(335,'Benito','Camelo','6647591203');
+insert into empleados  values(334,'Mariana','Marcela ','6641233456');
+insert into empleados  values(335,'Benito','Mary','6647591203');
 
 ----tabla users
 insert into users(tipo,username,password,empleado) values('empleado','0321','angel123',321);
